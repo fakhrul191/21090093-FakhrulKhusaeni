@@ -1,0 +1,9 @@
+Algoritma greedy merupakan jenis algoritma yang menggunakan pendekatan penyelesaian masalah dengan mencari nilai maksimum 
+sementara pada setiap langkahnya. Nilai maksimum sementara ini dikenal dengan istilah local maximum. 
+Pada kebanyakan kasus, algoritma greedy tidak akan menghasilkan solusi paling optimal, 
+begitupun algoritma greedy biasanya memberikan solusi yang mendekati nilai optimum dalam waktu yang cukup cepat.
+
+Contoh Algoritma Greedy :
+- Memilih beberapa jenis investasi (penanaman modal)
+- Mencari jalur tersingkat dari Bandung ke Jakarta
+- Memilih jurusan di Perguruan Tinggi
